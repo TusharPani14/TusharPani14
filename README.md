@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
 
-- 🔭 I’m currently working on [Backend of Pulaha Hall of Residence and profile page of IIC(backend)](https://github.com/Prasanna-spd/Pulahawedesign.git)
+- 🔭 I’m currently working on [Backend of Pulaha Hall of Residence and profile page of IIC](https://github.com/Prasanna-spd/Pulahawedesign.git)
 
 - 🌱 I’m currently learning **MongoDB and practicing DSA in C++**
 
