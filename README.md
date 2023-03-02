@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
 
-- 🔭 I’m currently working on [Backend of Pulaha Hall of Residence and profile section of IIC](https://github.com/Prasanna-spd/Pulahawedesign.git)
+- 🔭 I’m currently working on Full Stack Development
 
-- 🌱 I’m currently learning **MongoDB and practicing DSA in C++**
+- 🌱 I’m currently learning **react.js and practicing DSA in C++**
 
-- 👯 I’m looking to collaborate on **frontend projects and Event Managment.**
+- 👯 I’m looking to collaborate on **backend projects and Event Managment.**
 
-- 🤝 I’m looking for help with **Backend development.**
+- 🤝 I’m looking for help with **Frontend development.**
+
+- 💭 Ask me about programming languages, anything related to Web Development.
 
 - 😍 Hobbies **Listening to music , coding and gaming .**
 
@@ -18,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tushar panigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar panigrahi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tusharpanigrahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar panigrahi" height="30" width="40" /></a>
 <a href="https://instagram.com/pani.tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pani.tushar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushar_pani14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_pani14" height="30" width="40" /></a>
 </p>
