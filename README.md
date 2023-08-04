@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Full Stack Development
 
-- 🌱 I’m currently learning **react.js and practicing DSA in C++**
+- 🌱 I’m currently learning **practicing DSA in C++**
 
-- 👯 I’m looking to collaborate on **backend projects and Event Managment.**
+- 👯 I’m looking to collaborate on **full stack projects and Event Managment.**
 
 - 🤝 I’m looking for help with **Frontend development.**
 
