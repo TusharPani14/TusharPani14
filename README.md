@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Full Stack Development
 
-- 🌱 I’m currently learning **practicing DSA in C++**
+- 🌱 I’m currently learning **practicing DSA in C++ and Devops**
 
 - 👯 I’m looking to collaborate on **full stack projects and Event Managment.**
 
