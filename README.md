@@ -6,7 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
 
 # 💫 About Me:
-- 🔭 Currently engaged in Full Stack Development.<br><br>- 🌱 Constantly honing skills in **practicing DSA in C++ and DevOps.**<br><br>- 👯 Open to collaborating on **full stack projects and Event Management****<br><br>- 🤝 Seeking assistance and exploration in **DevOps practices.**<br><br>- 💭 Passionate about programming languages and all things related to Web Development.<br><br>- 😍  Enthusiast in **Listening to music, coding, and gaming .**<br><br>- 📫 Reach me at **tusharpanigrahi@gmail.com** for any inquiries.
+- 🔭 Currently engaged in Full Stack Development.  
+- 🌱 Constantly honing skills in **practicing DSA in C++ and DevOps.**  
+- 👯 Open to collaborating on **full stack projects and Event Management.**  
+- 🤝 Seeking assistance and exploration in **DevOps practices.**  
+- 💭 Passionate about programming languages and all things related to Web Development.  
+- 😍 Enthusiast in **Listening to music, coding, and gaming.**  
+- 📫 Reach me at **tusharpanigrahi@gmail.com** for any inquiries.
 
 
 ## 🌐 Socials:
