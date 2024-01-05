@@ -27,7 +27,7 @@
 <td align="center">
 <h3 align="left">Stats: </h3>
 <p align="center">
-  <img height=200px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
+  <img height=200px src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRjNmthOW5zbzBsOWZiaDRqbDdyNHBqMjB0NXQ3eDZ5Ymg2ZXd1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8FwQXLAaeea8lnnvam/giphy.gif" /> 
  <img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharPani14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
