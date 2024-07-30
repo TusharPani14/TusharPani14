@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpani14&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpani14" /> </p>
 
-
-
 # 💫 About Me:
 <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
